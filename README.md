@@ -88,7 +88,7 @@ By the end of this directory, you will:
 
 ---
 
-Get started with **Module 01: Introduction to Terraform**!
+Get started with **Module [01: Introduction to Terraform](Module 01/Introduction to Terraform.md)**!
 
 ---
 
