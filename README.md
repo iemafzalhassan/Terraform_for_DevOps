@@ -6,7 +6,7 @@ This directory is structured to help high school students understand Terraform i
 
 ## Directory Structure
 
-### **Module 01: Introduction to Terraform**
+### **[Module 01: Introduction to Terraform](#module-01-introduction-to-terraform)**
 This module sets the stage for learning Terraform by explaining its history, purpose, and importance in managing infrastructure.
 
 - **Subtopics:**
@@ -19,7 +19,7 @@ This module sets the stage for learning Terraform by explaining its history, pur
 
 ---
 
-### **Module 02: Installing Terraform**
+### **[Module 02: Installing Terraform](#module-02-installing-terraform)**
 Learn how to set up Terraform on your computer and get started with hands-on practice.
 
 - **Subtopics:**
@@ -32,7 +32,7 @@ Learn how to set up Terraform on your computer and get started with hands-on pra
 
 ---
 
-### **Module 03: Basics of Terraform Configuration**
+### **[Module 03: Basics of Terraform Configuration](#module-03-basics-of-terraform-configuration)**
 Dive into the fundamental building blocks of Terraform.
 
 - **Subtopics:**
@@ -45,7 +45,7 @@ Dive into the fundamental building blocks of Terraform.
 
 ---
 
-### **Module 04: Terraform State**
+### **[Module 04: Terraform State](#module-04-terraform-state)**
 Understand how Terraform keeps track of your infrastructure.
 
 - **Subtopics:**
@@ -58,8 +58,8 @@ Understand how Terraform keeps track of your infrastructure.
 
 ---
 
-### **Module 05: Advanced Terraform Concepts**
 Take your skills to the next level with advanced features of Terraform.
+### **[Module 05: Advanced Terraform Concepts](#module-05-advanced-terraform-concepts)**
 
 - **Subtopics:**
   1. **Modules:**
@@ -88,7 +88,7 @@ By the end of this directory, you will:
 
 ---
 
-Get started with **Module [01: Introduction to Terraform](Module 01/Introduction to Terraform.md)**!
+Get started with **Module [01: Introduction to Terraform](#module-01-introduction-to-terraform)**!
 
 ---
 
